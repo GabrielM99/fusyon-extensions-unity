@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Fusyon.Extensions
+namespace Fusyon
 {
     /// <summary>
     /// Useful mathematical functions.
